@@ -2,3 +2,11 @@ name = "Tube"
 uuid = "e46a63d9-4919-4dcd-bd01-c14669ffa7dd"
 authors = ["Penelope Yong <penelopeysm@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+MacroTools = "0.5.13"
+Test = "1.11.0"
